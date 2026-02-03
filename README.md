@@ -12,3 +12,4 @@
 - [CHAPTER 10 Modules and Packages](Chapter_10_Modules_and_Packages/README.md)
 - [CHAPTER 11 Network and Web Programming](Chapter_11_Network_and_Web_Programming/README.md)
 - [CHAPTER 12 Concurrency](Chapter_12_Concurrency_and_Parallelism/README.md)
+- [CHAPTER 13 Utility Scripting and System Administration](Chapter_13_Utility_Scripting_and_System_Administration/README.md)
