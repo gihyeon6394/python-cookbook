@@ -9,3 +9,4 @@
 - [CHAPTER 7 Functions](Chapter_7_Functions/README.md)
 - [CHAPTER 8 Classes and Objects](Chapter_8_Classes_and_Objects/README.md)
 - [CHAPTER 9 Metaprogramming](Chapter_9_Metaprogramming/README.md)
+- [CHAPTER 10 Modules and Packages](Chapter_10_Modules_and_Packages/README.md)
