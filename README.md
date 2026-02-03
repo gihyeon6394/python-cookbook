@@ -8,3 +8,4 @@
 - [CHAPTER 6 Data Encoding and Processing](Chapter_6_Data_Encoding_and_Processing/README.md)
 - [CHAPTER 7 Functions](Chapter_7_Functions/README.md)
 - [CHAPTER 8 Classes and Objects](Chapter_8_Classes_and_Objects/README.md)
+- [CHAPTER 9 Metaprogramming](Chapter_9_Metaprogramming/README.md)
