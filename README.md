@@ -14,3 +14,4 @@
 - [CHAPTER 12 Concurrency](Chapter_12_Concurrency_and_Parallelism/README.md)
 - [CHAPTER 13 Utility Scripting and System Administration](Chapter_13_Utility_Scripting_and_System_Administration/README.md)
 - [CHAPTER 14 Testing, Debugging, and Exceptions](Chapter_14_Testing_Debugging_and_Exceptions/README.md)
+- [CHAPTER 15 C Extensions](Chapter_15_C_Extensions/README.md)
