@@ -11,3 +11,4 @@
 - [CHAPTER 9 Metaprogramming](Chapter_9_Metaprogramming/README.md)
 - [CHAPTER 10 Modules and Packages](Chapter_10_Modules_and_Packages/README.md)
 - [CHAPTER 11 Network and Web Programming](Chapter_11_Network_and_Web_Programming/README.md)
+- [CHAPTER 12 Concurrency](Chapter_12_Concurrency_and_Parallelism/README.md)
