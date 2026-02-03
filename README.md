@@ -13,3 +13,4 @@
 - [CHAPTER 11 Network and Web Programming](Chapter_11_Network_and_Web_Programming/README.md)
 - [CHAPTER 12 Concurrency](Chapter_12_Concurrency_and_Parallelism/README.md)
 - [CHAPTER 13 Utility Scripting and System Administration](Chapter_13_Utility_Scripting_and_System_Administration/README.md)
+- [CHAPTER 14 Testing, Debugging, and Exceptions](Chapter_14_Testing_Debugging_and_Exceptions/README.md)
