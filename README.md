@@ -6,3 +6,5 @@
 - [CHAPTER 4 Iterators and Generators](Chapter_4_Iterators_and_Generators/README.md)
 - [CHAPTER 5 Files and I/O](Chapter_5_Files_and_IO/README.md)
 - [CHAPTER 6 Data Encoding and Processing](Chapter_6_Data_Encoding_and_Processing/README.md)
+- [CHAPTER 7 Functions](Chapter_7_Functions/README.md)
+- [CHAPTER 8 Classes and Objects](Chapter_8_Classes_and_Objects/README.md)
