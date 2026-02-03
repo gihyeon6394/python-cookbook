@@ -5,3 +5,4 @@
 - [CHAPTER 3 Numbers, Dates, and Times](Chapter_3_Numbers_Dates_and_Times/README.md)
 - [CHAPTER 4 Iterators and Generators](Chapter_4_Iterators_and_Generators/README.md)
 - [CHAPTER 5 Files and I/O](Chapter_5_Files_and_IO/README.md)
+- [CHAPTER 6 Data Encoding and Processing](Chapter_6_Data_Encoding_and_Processing/README.md)
